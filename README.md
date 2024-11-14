@@ -2,7 +2,7 @@
 - 👀 I’m interested in leaning new things, Playing games, reading books, listening songs, travelling. 
 - 🌱 I’m currently learning Python for data analyst, sql, excel, visualization.
 - 📫 Reach me on dyadav007008@gmail.com
-- 😄 Pronouns: Mr/He
+- 😄 Pronouns: He/Him
 
 
 <!---
